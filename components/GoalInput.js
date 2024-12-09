@@ -22,7 +22,10 @@ function GoalInput(props) {
   return (
     <Modal visible={props.showModal} animationType="slide">
       <View style={styles.inputContainer}>
-        <Image style={styles.image} source={require("../assets/apoia.png")} />
+        <Image
+          style={styles.image}
+          source={require("../assets/todolist.jpg")}
+        />
         <TextInput
           style={styles.textInput}
           placeholder="Adicione uma tarefa!"
