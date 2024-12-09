@@ -1,5 +1,3 @@
-| Home  | Modal  | 
-|-------------|-------------|
-| ![Texto alternativo](assets/lista.jpeg)
-  | ![Texto alternativo](assets/modal.jpeg)
-  |
+![Texto alternativo](assets/lista.jpeg)
+![Texto alternativo](assets/modal.jpeg)
+ 
